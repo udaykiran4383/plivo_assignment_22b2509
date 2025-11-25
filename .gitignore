@@ -1,0 +1,12 @@
+# Large model files
+out/model.safetensors
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS files
+.DS_Store

@@ -1,0 +1,7 @@
+torch
+transformers
+numpy
+tqdm
+seqeval
+faker
+num2words
